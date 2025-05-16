@@ -65,4 +65,11 @@ Mecatronica 2025
 <https://youtu.be/qIAXcUlxvNY?si=BX3ldakDEFQS6M6y>
 <https://youtu.be/I3JkOxrT9QY?si=TUSK6zrC-gNQNK40>
 <hr>
+Este material es importante que lo vean los grupos que están trabajando en la antena V invertida y en la Magnetic Loop
 
+En principio sería bueno que pudiesen hacer la comparación de la relación señal/ruido con el RTLSDR, pero si no tenemos suerte con la pesca de señales al menos comparar el nivel de ruido base entre antenas con ls señal S del smeeter.
+Paa quienes trabajan sobre la magnetic loop el video presenta alternativas de armar el loop con cable coaxil de tres modos distintos.
+
+<https://youtu.be/ib4LZW2Zr-c?si=hq_iaZOBPvYOHndT>
+
+<hr>
