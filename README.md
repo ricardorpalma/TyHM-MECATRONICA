@@ -18,43 +18,43 @@ Scrum:  https://docs.google.com/spreadsheets/d/1Hq_EJ_ELW0BJ7wBh72wsRF5qxRH0QI1Z
 * Grupo Experimentacion de Campo
 ## Grupos antenas 
 ### Grupo 1: G5RV (No entregado en cambio entregado el transmisor)
-* Barrios Retta, Federico
-* Cano, Francisco
-* Papetti, Mario
-* Aleo, Rodrigo
+* Barrios Retta, Federico - D
+* Cano, Francisco - D 
+* Papetti, Mario - D 
+* Aleo, Rodrigo -R 
 ### Grupo 2: Yagi (Cambiada por magnetic loop entregado)
-* Roldan, Juan Cruz
-* Barraquero, Ignacio
-* Campo, Camila
-* Patricelli, Nicolas
+* Roldan, Juan Cruz - R 
+* Barraquero, Ignacio - R 
+* Campo, Camila - R 
+* Patricelli, Nicolas - R 
 ### Grupo 3: Marconi 1/4 Lambda (No entregado en cambio entregado el sintonizador)
-* Zamora, Braulio
-* Welch, Patricio
-* Prato, Yago
-* Paredes, Juan Cruz
+* Zamora, Braulio - D 
+* Welch, Patricio - D 
+* Prato, Yago - D 
+* Paredes, Juan Cruz - R 
 ### Grupo 4: Paraguas (No entregado)
-* Peña, Lautaro
-* Baldasso, David
-* Benitez, Emanuel
+* Peña, Lautaro - D 
+* Baldasso, David -  D 
+* Benitez, Emanuel  - D
 ### Grupo 5: Zepelli (Entrega parcial falta cambio de frecuencia)
-* Nuñez, Brian
-* Quiroga, Juan Ignacio
-* Castel, Francisco
-* Sorrentino, Nicolas
+* Nuñez, Brian - D 
+* Quiroga, Juan Ignacio - D
+* Castel, Francisco - D 
+* Sorrentino, Nicolas - D 
 ### Grupo 6: Bazooka (Entregado total)
-* Ribeiro, Ignacio
-* Prado, Florencia
+* Ribeiro, Ignacio - D 
+* Prado, Florencia - D
 * Riou, Gwendal
-* Muñiz, Lucia
+* Muñiz, Lucia - R 
 * Ribeiro Blanco, Celia
 ### Grupo 7: Moxon (Entregado)
-* Fattiboni, Alvaro
-* Albanez, Luciano
-* Garcia, Bautista
+* Fattiboni, Alvaro - D 
+* Albanez, Luciano - R
+* Garcia, Bautista - D 
 * Ferri, Cristian
-* Martinez, Facundo
+* Martinez, Facundo - D 
 ### Grupo 8: V Invertida (Entregado)
-* Martinez, Melany
+* Martinez, Melanie - R 
 * Guitard, Paul
 * Taban, Aleksander
 
